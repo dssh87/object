@@ -1,4 +1,4 @@
-package com.seok.design;
+package com.seok.chap01;
 
 public class Ticket {
 	private Long fee; // È¸ºñ

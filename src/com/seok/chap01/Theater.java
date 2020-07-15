@@ -1,4 +1,4 @@
-package com.seok.design;
+package com.seok.chap01;
 
 public class Theater {
 	private TicketSeller ticketSeller;

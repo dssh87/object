@@ -1,4 +1,4 @@
-package com.seok.design;
+package com.seok.chap01;
 //¸ÅÇ¥¼Ò
 public class TicketSeller {
 

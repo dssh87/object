@@ -1,4 +1,4 @@
-package com.seok.design;
+package com.seok.chap01;
 
 // °ü¶÷°´
 public class Audience {
