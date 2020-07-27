@@ -2,7 +2,7 @@ package com.seok.chap02;
 
 import com.seok.chap01.DiscountCondition;
 
-public class AmountDiscountPolicy extends DiscountPolicy{
+public class AmountDiscountPolicy extends DefaultDiscountPolicy{
 
 	private Money discountAmount;
 	

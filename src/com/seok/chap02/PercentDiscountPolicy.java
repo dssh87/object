@@ -2,7 +2,7 @@ package com.seok.chap02;
 
 import com.seok.chap01.DiscountCondition;
 
-public class PercentDiscountPolicy extends DiscountPolicy{
+public class PercentDiscountPolicy extends DefaultDiscountPolicy{
 
 	private double percent;
 	
